@@ -1,0 +1,1 @@
+A program which reads a file using Java, you should know the path with its extention of the file and write it below in the code where the comment has been written in order to the code to work.
